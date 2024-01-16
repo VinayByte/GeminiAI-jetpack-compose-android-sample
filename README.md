@@ -1,6 +1,6 @@
 # Compose-GeminiAI - Advanced Android Architecture Sample App using Jetpack Compose and Google GeminiAI
 
-Compose-GeminiAI is an advanced Android application that demonstrates a modern approach to Android app development by integrating Google GeminiAI for intelligent image processing. This project is an extension of the original [Compose-sample](<insert_original_sample_link_here>) and showcases the seamless integration of various Android tools and libraries.
+Compose-GeminiAI is an advanced Android application that demonstrates a modern approach to Android app development by integrating Google GeminiAI for intelligent image processing.
 
 ## Screenshots
 ![Demo GIF](https://i.imgur.com/M0k8IeV.gif)
